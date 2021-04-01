@@ -39,7 +39,7 @@
     "express": "^4.14.0",
     "fs-extra": "^1.0.0",
     "howler": "^2.0.1",
-    "jquery": "1.11.3",
+    "jquery": "3.5.0",
     "webpack": "^1.13.3",
     "webpack-notifier": "^1.4.1",
     "yargs": "^6.4.0"
