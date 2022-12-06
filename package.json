@@ -36,7 +36,7 @@
     "babel-preset-stage-2": "^6.18.0",
     "eslint": "^3.10.2",
     "eslint-loader": "^1.6.1",
-    "express": "^4.14.0",
+    "express": "^4.17.3",
     "fs-extra": "^1.0.0",
     "howler": "^2.0.1",
     "jquery": "3.5.0",
